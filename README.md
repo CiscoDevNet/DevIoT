@@ -22,11 +22,4 @@ A Starter Kit for building the game gateway service to work with the Cisco DevIo
 
 The document and the code samples will provide a complete end to end example of how to use this SDK to build a gateway service to work with Cisco DevIoT.
 
-DevIoT is an Internet of things development environment enabling frictionless design and  deployment of complex IoT solutions.more detail
-
-The SDK focus on follow things:
-
-Register sensors to DevIot platform
-Help developer build sensors in Unity3d Game quickly
-Sync up the sensor data between Game and DevIot
-Recevie command from DevIot to trigger the sensor
+Game gateway service can be used to work with DevIot, supply the DevIot capability with read data in your game, control game object status, define game action
