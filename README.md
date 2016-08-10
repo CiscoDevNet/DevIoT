@@ -23,3 +23,6 @@ A Starter Kit for building the game gateway service to work with the Cisco DevIo
 The document and the code samples will provide a complete end to end example of how to use this SDK to build a gateway service to work with Cisco DevIoT.
 
 Game gateway service can be used to work with DevIot, supply the DevIot capability with read data in your game, control game object status, define game action
+
+###[DevIoT CMX/Meraki Gateway  Starter Kit](https://github.com/tingxin/DevIoT_IndoorLocation_Starter_Kit)
+CMX/Meraki gateway service can be used to work with DevIot, supply DevIot the capability with get device location data, get the number of devices in building.
