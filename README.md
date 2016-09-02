@@ -27,3 +27,6 @@ Game gateway service can be used to work with DevIot, supply the DevIot capabili
 ###[DevIoT CMX/Meraki Gateway  Starter Kit](https://github.com/tingxin/DevIoT_IndoorLocation_Starter_Kit)
 ####Trial version####
 CMX/Meraki gateway service can be used to work with DevIot, supply DevIot the capability with get device location data, get the number of devices in building.
+
+###[DevIot WorkShop](https://github.com/tingxin/DevIot-Workshop)
+The gateway sample code which work with DevIot platform
