@@ -17,6 +17,9 @@ Arduino gateway service can be used to work with DevIot, supply the DevIot capab
 
 This code also can be as a sample code to show how to use the Gateway Service SDK, use it build a completed gateway service which can work with DevIoT
 
+###[DevIoT Gateway iOS SDK](https://cto-github.cisco.com/chazhong/ios-gateway-sdk)
+This repository contains DevIoT iOS gateway service SDK and its sample codes. You can use this SDK to register sensors to DevIoT, and sync up data and actions between the sensors and DevIoT.
+
 ###[DevIoT Game Gateway  Starter Kit](https://github.com/tingxin/DevIotCar)
 A Starter Kit for building the game gateway service to work with the Cisco DevIoT
 
